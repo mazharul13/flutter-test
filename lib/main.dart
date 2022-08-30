@@ -3,16 +3,31 @@ import 'package:permission_handler/permission_handler.dart';
 // import 'package:camera/camera.dart';
 // import 'package:permissions/camera_screen.dart';
 // import 'package:permissions/camera_screen.dart';
+// import 'package:sqflite/sqflite.dart';
+// import 'package:sqflite/sqflite.dart';
+// import 'package:sqflite/sqflite.dart';
 
 import 'phonelogs_screen.dart';
 import 'package:oktoast/oktoast.dart';
+
+// import 'package:permissions/camera_7777777screen.dart';
+// import 'package:permissions/camera_7777777screen.dart';
+// import 'package:permissions/camera77777777_screen.dart';
+// import 'package:permissions/camera_7777777screen.dart';
+
 // import 'package:permissions/camera_scrsdfeen.dart';
 // import 'package:permissions/camera_scrsdfeen.dart';
 // import 'package:oktoast/oktoast.dasdfsdfrt';
 // import 'package:permissions/camera_screesdfsdfn.dart';
 // import 'package:permissions/camera_screen.dart';
 
+
 import 'package:sqflite/sqflite.dart';
+// import 'package:sqflite/sqflite.dart';
+// import 'package:sqflite/sqflite.dart';
+// import 'package:sqflite/sqflite.dart';
+// import 'package:sqflite/sqflite.dart';
+// import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 
 // class SqliteService {
@@ -45,6 +60,11 @@ Future<void> main() async {
 // Delete the database
 //   await deleteDatabase(path);
 
+// open the database
+// open the database
+// open the database
+// open the database
+// open the database
 // open the database
   Database database = await openDatabase(path, version: 1,
       onCreate: (Database db, int version) async {
