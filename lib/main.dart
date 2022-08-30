@@ -38,6 +38,11 @@ Future<void> main() async {
 //   await deleteDatabase(path);
 
 // open the database
+// open the database
+// open the database
+// open the database
+// open the database
+// open the database
   Database database = await openDatabase(path, version: 1,
       onCreate: (Database db, int version) async {
         // When creating the db, create the table
